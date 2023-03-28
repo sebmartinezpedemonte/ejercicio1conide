@@ -1,4 +1,4 @@
 function saludo(nombre, mensaje) {
-    console.log("Conflict");
+    console.log("Con rebase");
     console.log(mensaje + ", " + nombre + "!");
     }
